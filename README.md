@@ -26,7 +26,7 @@
 
 1. **Zhiyong Chen**, Xing Gao, Wei Yang, Guangyu Zhang, Juncong Lin, & Lisheng Xiang. (2016). A multi-touch based file navigation interface. 2016 11th International Conference on Computer Science & Education (ICCSE). IEEE. **(EI会议)**
 
-1.               Leyi Wei, Bowen Zhang, **Zhiyong Chen**, Xing Gao, & Minghong Liao. (2016). Exploring local discriminative information from evolutionary profiles for cytokine-receptor interaction prediction. Neurocomputing, S0925231216306154. **(中科院JCR三区, IF 2.160)**
+1. Leyi Wei, Bowen Zhang, **Zhiyong Chen**, Xing Gao, & Minghong Liao. (2016). Exploring local discriminative information from evolutionary profiles for cytokine-receptor interaction prediction. Neurocomputing, S0925231216306154. **(中科院JCR三区, IF 2.160)**
                  
 
 ---
