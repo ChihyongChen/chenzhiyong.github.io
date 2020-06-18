@@ -2,7 +2,7 @@
 
 [English Version](./en.md)
 
-===
+---
 
 ### 教育经历
 
@@ -11,7 +11,7 @@
 * 2013.9 — 2015.7	厦门大学软件学院             硕士（保送研究生）
 * 2009.9 — 2013.7	厦门大学软件学院             本科
 
-===
+---
 
 ### 发表论文
 
@@ -29,7 +29,7 @@
 1.               Leyi Wei, Bowen Zhang, **Zhiyong Chen**, Xing Gao, & Minghong Liao. (2016). Exploring local discriminative information from evolutionary profiles for cytokine-receptor interaction prediction. Neurocomputing, S0925231216306154. **(中科院JCR三区, IF 2.160)**
                  
 
-===
+---
 
 ### 获奖情况
 
@@ -63,13 +63,13 @@
 
 获2011-2012年度厦门大学软件学院“先进个人”
 
-===
+---
 
 ### 校内任职
 
 2013.09—2015.7	厦门大学软件学院2013级研究生班 班长
 
-===
+---
 
 ### 学习经历
 
